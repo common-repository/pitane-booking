@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pitane booking\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-11 11:36+0000\n"
+"PO-Revision-Date: 2022-08-22 08:20+0000\n"
+"Last-Translator: Pitane B.V.\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: pitanebooking"
+
+#: includes/core/html/form.php:30
+msgid "1. Desired route"
+msgstr "1. Desired route"
+
+#: includes/core/html/form.php:109
+msgid "2. Trip details"
+msgstr "2. Trip details"
+
+#: includes/core/html/form.php:195
+msgid "3. Contact details"
+msgstr "3. Contact details"
+
+#: includes/core/html/form.php:248
+msgid "at"
+msgstr "at"
+
+#: includes/pitane_plugin_options.php:168
+msgid "Background color"
+msgstr "Background color"
+
+#: includes/core/html/form.php:231
+msgid "Book now"
+msgstr "Book now"
+
+#: includes/core/html/form.php:87
+msgid "Bus (max. 8 persons)"
+msgstr "Bus (max. 8 persons)"
+
+#: includes/pitane_plugin_options.php:172
+msgid "Button background color"
+msgstr "Button background color"
+
+#: includes/core/html/form.php:19 includes/core/html/form.php:105
+#: includes/core/html/form.php:191 includes/core/html/form.php:240
+msgid "Calculate and book"
+msgstr "Calculate and book"
+
+#: includes/core/html/form.php:96
+msgid "Calculate price"
+msgstr "Calculate price"
+
+#: includes/core/html/form.php:83
+msgid "Car type"
+msgstr "Car type"
+
+#: includes/pitane_plugin_options.php:10 includes/pitane_plugin_options.php:154
+msgid "Color Settings"
+msgstr "Color Settings"
+
+#: includes/pitane_plugin_options.php:104
+msgid "Company name"
+msgstr "Company name"
+
+#: includes/core/html/form.php:182
+msgid "Continue"
+msgstr "Continue"
+
+#: includes/core/html/form.php:127
+msgid "Date"
+msgstr "Date"
+
+#: includes/pitane_plugin_options.php:129
+msgid "Default passenger id (rei_id)"
+msgstr "Default passenger id (rei_id)"
+
+#: includes/core/html/form.php:51
+msgid "Destination"
+msgstr "Destination"
+
+#: includes/core/html/form.php:211
+msgid "Email address"
+msgstr "Email address"
+
+#: includes/pitane_plugin_options.php:184
+msgid "Error Text color"
+msgstr "Error Text color"
+
+#: includes/core/html/form.php:217
+msgid "Extra information"
+msgstr "Extra information"
+
+#: includes/pitane_plugin_options.php:134
+msgid "Filter letter (pla_filter)"
+msgstr "Filter letter (pla_filter)"
+
+#: includes/pitane_plugin_options.php:79
+msgid "Google API key"
+msgstr "Google API key"
+
+#: includes/pitane_plugin_options.php:84
+msgid "Google countries"
+msgstr "Google maps country restrictions"
+
+#. URI of the plugin
+msgid "https://agendapakket.nl/toepassingen/wordpress/"
+msgstr "https://agendapakket.nl/toepassingen/wordpress/"
+
+#. Author URI of the plugin
+msgid "https://www.pitane.nl/"
+msgstr "https://www.pitane.nl/"
+
+#: includes/core/html/form.php:252
+msgid "If we have additional questions we will call you by phone"
+msgstr "If we have additional questions we will call you by phone"
+
+#: includes/pitane_plugin_options.php:160
+msgid "Main color"
+msgstr "Main color"
+
+#: includes/core/html/form.php:257 includes/core/html/form.php:258
+msgid "New Booking"
+msgstr "New Booking"
+
+#: includes/core/html/form.php:141
+msgid "No"
+msgstr "No"
+
+#: includes/core/html/form.php:68
+msgid "Number of persons"
+msgstr "Number of persons"
+
+#: includes/core/html/form.php:223
+msgid "Pay at driver"
+msgstr "Pay at driver"
+
+#: includes/core/html/form.php:224
+msgid "Pay online"
+msgstr "Pay online"
+
+#: includes/core/html/form.php:221
+msgid "Payment method"
+msgstr "Payment method"
+
+#: includes/core/html/form.php:71
+msgid "person"
+msgstr "person"
+
+#: includes/core/html/form.php:72 includes/core/html/form.php:73
+#: includes/core/html/form.php:74 includes/core/html/form.php:75
+#: includes/core/html/form.php:76 includes/core/html/form.php:77
+#: includes/core/html/form.php:78
+msgid "persons"
+msgstr "persons"
+
+#: includes/core/html/form.php:205
+msgid "Phone number"
+msgstr "Phone number"
+
+#: includes/core/html/form.php:36 includes/core/html/form.php:113
+msgid "Pick-up"
+msgstr "Pick-up"
+
+#: includes/core/html/form.php:131
+msgid "Pick-up time"
+msgstr "Pick-up time"
+
+#: includes/pitane_plugin_options.php:99
+msgid "Pitane API key"
+msgstr "Pitane API key"
+
+#: includes/pitane_plugin_options.php:94
+msgid "Pitane API port"
+msgstr "Pitane API port"
+
+#: includes/pitane_plugin_options.php:89
+msgid "Pitane API url"
+msgstr "Pitane API url"
+
+#. Author of the plugin
+msgid "Pitane B.V."
+msgstr "Pitane B.V."
+
+#. Name of the plugin
+msgid "Pitane booking"
+msgstr "Pitane booking"
+
+#: includes/core/html/form.php:23
+msgid "Pitane Booking not configured"
+msgstr "Pitane Booking not configured"
+
+#. Description of the plugin
+msgid "Pitane Booking Shortcode [pitane_plugin]"
+msgstr "Pitane Booking Shortcode [pitane_plugin]"
+
+#: includes/pitane_plugin_options.php:8 includes/pitane_plugin_options.php:72
+msgid "Pitane Settings"
+msgstr "Pitane Settings"
+
+#: includes/core/html/form.php:213
+msgid "Please enter e-mail address"
+msgstr "Please enter e-mail address"
+
+#: includes/core/html/form.php:214
+msgid "Please enter valid e-mail address"
+msgstr "Please enter valid e-mail address"
+
+#: includes/core/html/form.php:208
+msgid "Please enter valid phone number"
+msgstr "Please enter valid phone number"
+
+#: includes/core/html/form.php:56 includes/core/html/form.php:61
+msgid "Please enter your destination address"
+msgstr "Please enter your destination address"
+
+#: includes/core/html/form.php:202
+msgid "Please enter your name"
+msgstr "Please enter your name"
+
+#: includes/core/html/form.php:207
+msgid "Please enter your phone number"
+msgstr "Please enter your phone number"
+
+#: includes/core/html/form.php:41 includes/core/html/form.php:46
+msgid "Please enter your pick-up address"
+msgstr "Please enter your pick-up address"
+
+#: includes/core/html/form.php:254
+msgid "Please pay your reservation online in order to complete your booking"
+msgstr "Please pay your reservation online in order to complete your booking"
+
+#: includes/core/html/form.php:171
+msgid "Retour amount"
+msgstr "Retour amount"
+
+#: includes/core/html/form.php:137
+msgid "Return"
+msgstr "Return"
+
+#: includes/core/html/form.php:151
+msgid "Return date"
+msgstr "Return date"
+
+#: includes/core/html/form.php:157
+msgid "Return time"
+msgstr "Return time"
+
+#: includes/pitane_plugin_options.php:180
+msgid "Success Text color"
+msgstr "Success Text color"
+
+#: includes/pitane_plugin_options.php:114
+msgid "Tariff Id Bus"
+msgstr "Tariff Id Bus"
+
+#: includes/pitane_plugin_options.php:109
+msgid "Tariff Id Taxi"
+msgstr "Tariff Id Taxi"
+
+#: includes/pitane_plugin_options.php:119
+msgid "Tariff Id Wheelchair Bus"
+msgstr "Tariff Id Wheelchair Bus"
+
+#: includes/core/html/form.php:86
+msgid "Taxi (max. 4 persons)"
+msgstr "Taxi (max. 4 persons)"
+
+#: includes/pitane_plugin_options.php:164
+msgid "Text Main color"
+msgstr "Text Main color"
+
+#: includes/core/html/form.php:119
+msgid "To"
+msgstr "To"
+
+#: includes/pitane_plugin_options.php:124
+msgid "Transport id (rei_vor_id)"
+msgstr "Transport id (rei_vor_id)"
+
+#: includes/core/html/form.php:167
+msgid "Trip amount"
+msgstr "Trip amount"
+
+#: includes/core/html/form.php:251
+msgid "We will bring you to the following destination"
+msgstr "We will bring you to the following destination"
+
+#: includes/core/html/form.php:248
+msgid "We will pick you up on"
+msgstr "We will pick you up on"
+
+#: includes/core/html/form.php:253
+msgid ""
+"We will send you an email with all information regarding this booking. You "
+msgstr ""
+"We will send you an email with all information regarding this booking. You "
+"will receive this mail at"
+
+#: includes/core/html/form.php:88
+msgid "Wheelchair bus (max. 8 persons)"
+msgstr "Wheelchair bus (max. 8 persons)"
+
+#: includes/pitane_plugin_options.php:176
+msgid "Widget Text color"
+msgstr "Widget Text color"
+
+#: includes/core/html/form.php:140
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/core/html/form.php:200
+msgid "Your name"
+msgstr "Your name"
+
+#: includes/core/html/form.php:244
+msgid "Your trip was booked with trip number"
+msgstr "Your trip was booked with trip number"
+
+#: includes/core/html/form.php:246
+msgid "Your trip was reserved with trip number"
+msgstr "Your trip was reserved with trip number"
+
+#: includes/core/html/form.php:245
+msgid "Your trips were booked under trip numbers"
+msgstr "Your trips were booked under trip numbers"
+
+#: includes/core/html/form.php:247
+msgid "Your trips were reserved under trip numbers"
+msgstr "Your trips were reserved under trip numbers"
